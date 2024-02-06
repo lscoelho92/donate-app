@@ -1,9 +1,7 @@
-# Donate Anima Educação
+# Donate App
 
-Aplicação utilizando Vue.js com o auxílio do framework Vuetify(https://vuetifyjs.com/en/) para componentes no front-end.
+Application using Vue.js with the help of the Vuetify framework (https://vuetifyjs.com/en/) for front-end components.
 
-para rodar a aplicação:
-  - npm install para instalar as dependencias;
-  - npm run serve para rodar a aplicação em http://localhost:8080/;
-  
-OBS: O botão de adicionar a doação está com visual diferente do fornecido no Layout, pois é um botão de action principal, achei que deveria ter um destaque maior.
+to run the application:
+  - npm install to install dependencies;
+  - npm run is used to run the application at http://localhost:8080/;
